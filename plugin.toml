@@ -1,0 +1,4 @@
+[plugin]
+description = "Copy nginx.conf.d files from image to app folder"
+version = "0.1.0"
+[plugin.config]
